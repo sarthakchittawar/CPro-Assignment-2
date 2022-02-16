@@ -1,6 +1,11 @@
 # Computer Programming - Assignment 2
 
 Link to Question PDF: [Assignment_2.pdf](./Assignment_2.pdf)
+### Instructions to compile and run (all done on Ubuntu 20.04)
+```
+$ gcc code.c
+$ ./a.out
+```
 
 ## Shortcuts:
 1. [Question 1](./1.c)
